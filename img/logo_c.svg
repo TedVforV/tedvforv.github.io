@@ -1,11 +1,11 @@
-<svg width="949" height="256" xmlns="http://www.w3.org/2000/svg">
-
+<svg width="1200" height="629" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>background</title>
-  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <rect x="-1" y="-1" width="1202" height="631" id="canvas_background" fill="none"/>
  </g>
+
  <g>
   <title>Layer 1</title>
-  <text font-weight="bold" stroke="null" transform="matrix(19.953389801921652,0,0,9.992242575783564,-1507.5918774151676,-686.1274578706773) " xml:space="preserve" text-anchor="start" font-family="Euphoria, sans-serif" font-size="24" id="svg_6" y="86.498447" x="78.177077" stroke-opacity="null" stroke-width="0" fill="#007fff">Learn</text>
+  <text font-style="italic" stroke="null" transform="translate(2.939267158508301,1.7815134525299072) scale(1.0215224027633667,1) translate(-2.939267158508301,-1.7815134525299072) translate(1164.5799560546875,1.7815134525299072) scale(1.0201984643936157,1) translate(-1164.5799560546875,-1.7815134525299072) translate(25.87868881225586,625.6543579101562) scale(1,1.1772232055664062) translate(-25.87868881225586,-625.6543579101562) translate(25.87868881225586,94.43257904052734) scale(1,1.2724181413650513) translate(-25.87868881225586,-94.43257904052734) translate(1198.7662353515625,0.03548377379775047) scale(1.0204353332519531,1) translate(-1198.7662353515625,-0.03548377379775047) translate(24.159381866455078,0.3775022327899933) scale(1.055716633796692,1) translate(-24.159381866455078,-0.3775022327899933) translate(24.159381866455078,-0.26938286423683167) scale(1,1.101622223854065) translate(-24.159381866455078,0.26938286423683167) translate(24.159381866455078,570.8043823242188) scale(1,1.1108074188232422) translate(-24.159381866455078,-570.8043823242188) translate(24.159381866455078,56.677711486816406) scale(1) translate(-24.159381866455078,-56.677711486816406) translate(23.898775100708008,53.589595794677734) scale(1.170204758644104,2.0289204120635986) translate(-23.898775100708008,-53.589595794677734) matrix(20.872719986782613,0,0,8.816435855869454,-1598.4518019437082,-588.52487870261) " fill="#007fff" stroke-width="0" stroke-opacity="null" x="79.374813" y="92.623371" id="svg_6" font-size="17" font-family="'Times New Roman', Times, serif" text-anchor="start" xml:space="preserve" font-weight="bold">Learn</text>
  </g>
 </svg>
